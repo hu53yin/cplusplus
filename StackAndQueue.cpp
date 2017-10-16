@@ -22,7 +22,7 @@ public:
 	}
 };
 
-int _tmain(int argc, _TCHAR* argv[]) {
+int _main10(int argc, _TCHAR* argv[]) {
 	//LIFO
 	stack<Test> testStack;
 

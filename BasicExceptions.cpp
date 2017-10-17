@@ -7,7 +7,7 @@
 
 using namespace std;
 
-void mightGroWrong() {
+void mightGoWrong() {
 	bool error1 = false;
 	bool error2= true;
 

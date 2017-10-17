@@ -37,7 +37,7 @@ public:
 };
 
 
-int _tmain(int argc, _TCHAR* argv[])
+int main2(int argc, _TCHAR* argv[])
 {
 	Test test1(10, "Mike");	
 

@@ -39,7 +39,7 @@ public:
 	}
 };
 
-int _tmain(int argc, _TCHAR* argv[])
+int main3(int argc, _TCHAR* argv[])
 {
 	Child c1;
 	Parent &p1 = c1;

@@ -1,0 +1,13 @@
+﻿Build started 10.10.2017 19:32:13.
+     1>Project "c:\Users\huseyingur\documents\visual studio 2012\Projects\BasicExceptions\BasicExceptions\BasicExceptions.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BasicExceptions.cpp StandardExceptions.cpp
+         StandardExceptions.cpp
+     1>c:\users\huseyingur\documents\visual studio 2012\projects\basicexceptions\basicexceptions\standardexceptions.cpp(10): error C2148: total size of array must not exceed 0x7fffffff bytes
+         BasicExceptions.cpp
+         Generating Code...
+     1>Done Building Project "c:\Users\huseyingur\documents\visual studio 2012\Projects\BasicExceptions\BasicExceptions\BasicExceptions.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.29
